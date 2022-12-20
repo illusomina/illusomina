@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.linkedin.com/in/min-ah-kim-908421b7
 - 😄 Pronouns: she/her/her
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
