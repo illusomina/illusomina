@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python        4 hrs 12 mins   ███████████████████▒░░░░░   77.75 %
-Assembly      41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Objective-C   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-MySQL         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python     2 hrs 46 mins   ████████████████████░░░░░   79.69 %
+Assembly   38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
+MySQL      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
