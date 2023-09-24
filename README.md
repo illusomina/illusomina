@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 46 mins   ████████████████████░░░░░   79.69 %
-Assembly   38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.37 %
-MySQL      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python     2 hrs 48 mins   ████████████████████▒░░░░   81.18 %
+Assembly   38 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
