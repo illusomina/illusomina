@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 33 mins    ███████████████████░░░░░░   76.05 %
-Assembly   27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.50 %
+Python     1 hr 33 mins    ███████████████████░░░░░░   76.53 %
+Assembly   27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
 Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
