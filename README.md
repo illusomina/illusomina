@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 33 mins    ███████████████████░░░░░░   76.53 %
-Assembly   27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.65 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Python      50 mins         ██████████▒░░░░░░░░░░░░░░   41.41 %
+GDScript3   42 mins         ████████▓░░░░░░░░░░░░░░░░   34.60 %
+Assembly    27 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
+Other       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
