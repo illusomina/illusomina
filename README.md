@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python      50 mins         █████████████▒░░░░░░░░░░░   53.65 %
-GDScript3   42 mins         ███████████▒░░░░░░░░░░░░░   44.82 %
-Other       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python      48 mins         █████████████░░░░░░░░░░░░   52.63 %
+GDScript3   42 mins         ███████████▒░░░░░░░░░░░░░   45.80 %
+Other       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
