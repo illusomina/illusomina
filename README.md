@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   2 hrs 30 mins   █████████████▓░░░░░░░░░░░   55.15 %
-Assembly    1 hr 19 mins    ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-Python      40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-CSV         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GDScript3   1 hr 48 mins    ████████████░░░░░░░░░░░░░   48.55 %
+Assembly    1 hr 19 mins    █████████░░░░░░░░░░░░░░░░   35.72 %
+Python      33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+CSV         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
