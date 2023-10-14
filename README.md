@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 20 mins    ███████████████████▓░░░░░   78.97 %
-TSQL             16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-Prolog           3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Python           21 mins         ██████████████░░░░░░░░░░░   56.12 %
+TSQL             16 mins         ██████████▓░░░░░░░░░░░░░░   43.24 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
