@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           1 hr 22 mins    ████████████████████▓░░░░   83.08 %
-TSQL             16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     1 hr            ███████████████████▒░░░░░   76.75 %
+Assembly   18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
 ```
 
 <!--END_SECTION:waka-->
