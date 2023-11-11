@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       31 mins         ████████████████████▓░░░░   82.71 %
-Git Config   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
