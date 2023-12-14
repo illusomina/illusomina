@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 22 mins   █████████████████████████   99.84 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+HTML         2 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   42.91 %
+CSS          2 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   40.97 %
+Python       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+Text         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
